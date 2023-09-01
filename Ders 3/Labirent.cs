@@ -219,13 +219,13 @@ namespace Labirent_Cozen_Program
                 //sag hucrenin bos olup olmadigina bakilir
                 if (Labirent_Coz(x , y-1) == 1)
                     return 1;
-                //asagi hucrenin bos olup olmadigina bakilir
+                //yukari hucrenin bos olup olmadigina bakilir
                 if (Labirent_Coz(x-1, y ) == 1)
                     return 1;
                 //sol hucrenin bos olup olmadigina bakilir
                 if (Labirent_Coz(x, y + 1) == 1)
                     return 1;
-                //yukari hucrenin bos olup olmadigina bakilir
+                //asagi hucrenin bos olup olmadigina bakilir
                 veriler[x, y] = 5;
                 hucreler[x, y].BackColor = Color.Red;
                 hucreler[x, y].ForeColor = Color.Red;
