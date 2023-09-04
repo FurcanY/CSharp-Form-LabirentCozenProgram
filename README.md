@@ -12,8 +12,9 @@
 #  :collision: "Backtracing Algoritması Nedir ?" Adlı videoma [buraya tıklayarak](https://youtu.be/6JvVelUz4jo?si=Sz1g9GgEbIt_s6av) ulaşabilirsiniz. :purple_heart: :collision:
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" width="320" height="180"/>
+  <img src="https://github.com/FurcanY/CSharp-Form-LabirentCozenProgram/assets/114299899/386b5249-8e1c-4bf3-92ea-e346fb5e2656" width="320" height="180"/>
 </p>
+
 
 
 
@@ -21,7 +22,7 @@
 
 #  :collision: Ayrıca bu programın nasıl yapıldığını anlattığım bir YouTube oynatma listem var. Bu listeme ulaşmak için [buraya tıklayarak](https://youtu.be/6JvVelUz4jo?si=Sz1g9GgEbIt_s6av) ulaşabilirsiniz. :purple_heart: :collision:
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" />
+  <img src="https://github.com/FurcanY/CSharp-Form-LabirentCozenProgram/assets/114299899/8ae7cc96-3129-4d13-96f3-d39ba24e530f" />
 </p>
 
 <p style="text-align: center ;color:blue">--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
@@ -30,13 +31,13 @@
 ##  :star: Program İçinden Görüntüler :star:
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" />
+  <img src="https://github.com/FurcanY/CSharp-Form-LabirentCozenProgram/assets/114299899/568f7e5b-98e8-438b-bb99-55569b591bec" />
 </p>
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" />
+  <img src="https://github.com/FurcanY/CSharp-Form-LabirentCozenProgram/assets/114299899/9e4c6d3c-e966-4efa-858f-e4ab82d7fda5" />
 </p>
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" />
+  <img src="https://github.com/FurcanY/CSharp-Form-LabirentCozenProgram/assets/114299899/5d5071a0-867b-4868-9b2c-d15274850e71" />
 </p>
 
 ## Proje İçinden Örnek Kodlar 💾
