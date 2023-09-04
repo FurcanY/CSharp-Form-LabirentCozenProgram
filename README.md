@@ -1,6 +1,6 @@
 # Labirent Çözen Program  :star:
 
-### Bu programımızda kendimiz labirent oluşturabilir, oluşturduğumuz labirenti kaydedebilir ve oluşturlan labirenti programa geri yükleyebiliriz. 
+### Bu programımızda kendimiz labirent oluşturabilir, oluşturduğumuz labirenti kaydedebilir ve oluşturulan labirenti programa geri yükleyebiliriz. 
 
 ### Ayrıca oluşturulan labirenti çözebilen bir algoritmamız da var.
 ### Bu algoritmamızın çalışma prensibi Backtracking (Geri İzleme)Algoritması'na dayanıyor
