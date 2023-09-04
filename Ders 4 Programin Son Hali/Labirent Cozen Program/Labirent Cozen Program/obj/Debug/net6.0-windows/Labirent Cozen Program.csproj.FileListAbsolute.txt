@@ -1,0 +1,17 @@
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\bin\Debug\net6.0-windows\Labirent Cozen Program.exe
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\bin\Debug\net6.0-windows\Labirent Cozen Program.deps.json
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\bin\Debug\net6.0-windows\Labirent Cozen Program.runtimeconfig.json
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\bin\Debug\net6.0-windows\Labirent Cozen Program.dll
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\bin\Debug\net6.0-windows\Labirent Cozen Program.pdb
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\obj\Debug\net6.0-windows\Labirent Cozen Program.csproj.AssemblyReference.cache
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\obj\Debug\net6.0-windows\Labirent_Cozen_Program.Form1.resources
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\obj\Debug\net6.0-windows\Labirent Cozen Program.csproj.GenerateResource.cache
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\obj\Debug\net6.0-windows\Labirent Cozen Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\obj\Debug\net6.0-windows\Labirent Cozen Program.AssemblyInfoInputs.cache
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\obj\Debug\net6.0-windows\Labirent Cozen Program.AssemblyInfo.cs
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\obj\Debug\net6.0-windows\Labirent Cozen Program.csproj.CoreCompileInputs.cache
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\obj\Debug\net6.0-windows\Labirent Cozen Program.dll
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\obj\Debug\net6.0-windows\refint\Labirent Cozen Program.dll
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\obj\Debug\net6.0-windows\Labirent Cozen Program.pdb
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\obj\Debug\net6.0-windows\Labirent Cozen Program.genruntimeconfig.cache
+D:\C#\Form Ornekleri\Labirent Cozen Program\Labirent Cozen Program\obj\Debug\net6.0-windows\ref\Labirent Cozen Program.dll
