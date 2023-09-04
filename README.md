@@ -20,7 +20,7 @@
 
 
 
-#  :collision: Ayrıca bu programın nasıl yapıldığını anlattığım bir YouTube oynatma listem var. Bu listeme ulaşmak için [buraya tıklayarak](https://youtu.be/6JvVelUz4jo?si=Sz1g9GgEbIt_s6av) ulaşabilirsiniz. :purple_heart: :collision:
+#  :collision: Ayrıca bu programın nasıl yapıldığını anlattığım bir YouTube oynatma listem var. Bu listeme ulaşmak için [buraya tıklayarak](https://youtube.com/playlist?list=PLDHRr6EHUpuApMUhFTO2yTeuzFwALPm-U&si=Q7kR9YxjfZ97eqsF) ulaşabilirsiniz. :purple_heart: :collision:
 <p align="center">
   <img src="https://github.com/FurcanY/CSharp-Form-LabirentCozenProgram/assets/114299899/8ae7cc96-3129-4d13-96f3-d39ba24e530f" />
 </p>
