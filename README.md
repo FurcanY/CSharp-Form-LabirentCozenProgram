@@ -9,7 +9,7 @@
 
 <p style="text-align: center ;color:blue">--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
-#  :collision: "Backtracing Algoritması Nedir ?" Adlı videoma [buraya tıklayarak](https://youtu.be/6JvVelUz4jo?si=Sz1g9GgEbIt_s6av) ulaşabilirsiniz. :purple_heart: :collision:
+#  :collision: "Backtracking Algoritması Nedir ?" Adlı videoma [buraya tıklayarak](https://youtu.be/6JvVelUz4jo?si=Sz1g9GgEbIt_s6av) ulaşabilirsiniz. :purple_heart: :collision:
 
 <p align="center">
   <img src="https://github.com/FurcanY/CSharp-Form-LabirentCozenProgram/assets/114299899/386b5249-8e1c-4bf3-92ea-e346fb5e2656" width="320" height="180"/>
